@@ -5,7 +5,7 @@
 - 🗣️ English/Portuguese
 - 🤘 Metalhead
 <br>
-<div align="center">Hail hail the lucky ones, I refer to those ~~in love~~ in home office, yeah 🎶</div>
+<div align="center">Hail hail the lucky ones, I refer to those <s>in love</s> in home office, yeah 🎶</div>
 <br><br>
 
 <div align="center">
