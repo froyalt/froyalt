@@ -32,4 +32,17 @@
 <div align="center">
   <span>HTML5</span>
   <span>CSS3</span>
+  <span>JavaScript</span>
+  <span>TypeScript</span>
+  <span>Bootstrap</span>
+  <span>Sass</span>
+  <span>React</span>
+  <span>Node.JS</span>
+  <span>MySQL</span>
+  <span>Sequelize</span>
+  <span>npm</span>
+  <span>Git</span>
+  <span>GitHub</span>
+  
+  
 </div>
