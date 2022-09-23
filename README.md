@@ -29,20 +29,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
-<div align="center">
-  <span>HTML5</span>
-  <span>CSS3</span>
-  <span>JavaScript</span>
-  <span>TypeScript</span>
-  <span>Bootstrap</span>
-  <span>Sass</span>
-  <span>React</span>
-  <span>Node.JS</span>
-  <span>MySQL</span>
-  <span>Sequelize</span>
-  <span>npm</span>
-  <span>Git</span>
-  <span>GitHub</span>
-  
-  
-</div>
+
