@@ -1,8 +1,8 @@
 # Hello there! 👋
-
+<img align="right" alt="png" src="https://i.imgur.com/9JNdSuV.png" border="0" alt="https://picasion.com/" /><br>
 - 💻 Front-End Developer
 - 📐 Math Enjoyer (finishing bachelor's degree in mathematics)
-- 🗣️ English/Portuguese
+- 🗣️ Portuguese/English
 - 🤘 Metalhead
 <br>
 <div align="center">Hail hail the lucky ones, I refer to those <s>in love</s> in home office, yeah 🎶</div>
