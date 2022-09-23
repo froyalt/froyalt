@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hello there! 👋
 
-<div align="left">
+- 💻 Front-End Developer
+- 📐 Math Enjoyer (finishing bachelor's degree in mathematics)
+- 🗣️ English/Portuguese
+- 🤘 Metalhead
+- 🎶 Hail hail the lucky ones, I refer to those ~~in love~~ in home office, yeah 🎶
+
+<div align="center">
   <a href="https://github.com/froyalt">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=froyalt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=froyalt&layout=compact&langs_count=7&theme=dark"/>
