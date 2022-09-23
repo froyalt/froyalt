@@ -3,7 +3,7 @@
 - 💻 Front-End Developer
 - 📐 Math Enjoyer (finishing bachelor's degree in mathematics)
 - 🗣️ Portuguese/English
-- 🤘  Metalhead
+- 🤘 &#8205 Metalhead
 <br>
 <div align="center">Hail hail the lucky ones, I refer to those <s>in love</s> in home office, yeah 🎶</div>
 <br><br>
