@@ -4,7 +4,9 @@
 - 📐 Math Enjoyer (finishing bachelor's degree in mathematics)
 - 🗣️ English/Portuguese
 - 🤘 Metalhead
-- 🎶 Hail hail the lucky ones, I refer to those ~~in love~~ in home office, yeah 🎶
+<br>
+<div align="center">Hail hail the lucky ones, I refer to those ~~in love~~ in home office, yeah 🎶</div>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/froyalt">
