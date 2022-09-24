@@ -13,6 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=froyalt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=froyalt&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
