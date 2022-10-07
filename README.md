@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Howdy! 👋
 <img align="right" alt="png" src="https://i.imgur.com/9JNdSuV.png" border="0" alt="https://picasion.com/" /><br>
 - 💻 Front-End Developer
 - 📐 Math Enjoyer (finishing bachelor's degree in mathematics)
