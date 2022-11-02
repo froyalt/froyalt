@@ -31,6 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
   <br>
-<div align="center">Commits just show us that you can press a button 🏳️</div>
+<div align="center">Commits just shows that someone can press a button 🏳️</div>
   
 
